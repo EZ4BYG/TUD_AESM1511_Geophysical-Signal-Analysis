@@ -1,3 +1,4 @@
 # Linear Time-Invariant systems and the Principle of Superposition.
 
-
+We have now covered in the part Advanced Signal Analysis the principle of superposition. We will use it to start practicing some Matlab skills. At the same time,
+this assignment will also allow you to make use of the superposition principle to make simple manipulations on signals (functions), like summation and subtraction. If two signals are summed, a new signal is obtained. If you continue adding more and more signals to the original sum, you can, in principle, obtain any desired final signal, as long as you know what you want to obtain and what to sum to obtain it. You have seen that already in the lecture on Advanced Signal Analysis: when the different summed signals are sine functions, then one performs Fourier analysis. Here, we are going to use sine functions to build signals as a preparation for the future.
